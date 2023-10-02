@@ -1,6 +1,6 @@
 # HacktoberFest 2023 🎉
 
-![HacktoberFest 2023](.github/hactoberfestlogo.png)
+![HacktoberFest 2023](logo.png)
 
 ## Contributors to Hacktoberfest 2023
 
