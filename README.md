@@ -28,7 +28,7 @@ Welcome to our Hacktoberfest 2023 Repository! We're excited to have you on board
 
 2. **Clone Your Fork**: Clone your forked repository to your local machine with the following command:
    ```sh
-   git clone https://github.com/YourUsername/Hacktoberfest-2023.git
+   git clone https://github.com/Narennnnn/Hacktoberfest-2023.git
 
 3. **Create a new branch**: Named 'new-user' and switch to it:
    ```sh
@@ -111,5 +111,5 @@ If you want to stay updated with the project's progress:
 
 
 ## Follow me
-To expedite approval of your pull request [Follow me](https://github.com/YourUsername)
+To expedite approval of your pull request [Follow me](https://github.com/Narennnnn)
 
