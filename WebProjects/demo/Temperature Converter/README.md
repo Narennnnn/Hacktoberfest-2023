@@ -1,8 +1,9 @@
 
 Name: Sumedh Suralkar. <br>
 Institution : Goverment College of Engineering, Karad.  <br>
-LinkedIn: [**@sumedhsuralkar**](https://www.linkedin.com/in/sumedhsuralkar)  <br>
-GitHub: [**@sumedhx**](https://github.com/sumedhx)  <br>
+LinkedIn : [**@sumedhsuralkar**](https://www.linkedin.com/in/sumedhsuralkar)  <br>
+GitHub : [**@sumedhx**](https://github.com/sumedhx)  <br>
+Instagram : [**@sumedhs_**](https://www.instagram.com/sumedhs_) <br>
 Contribution: A Simple web-based Temperature Convertor.  <br>
 
 
