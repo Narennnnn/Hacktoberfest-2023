@@ -95,7 +95,8 @@ Welcome to our Hacktoberfest 2023 Repository! We're excited to have you on board
 
 3. **Merge the Pull Request**: Once your Pull Request is approved, one of the project maintainers will merge it into the main branch. You'll receive a notification when this happens.
 
-
+    **Don't Forget to Star this repo!**
+   
 ## Celebrate - you've done your first pull request 🎉
 
 
