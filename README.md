@@ -48,6 +48,17 @@ Welcome to our Hacktoberfest 2023 Repository! We're excited to have you on board
     - Once you've added your work, make sure to create a corresponding `README.md` file to explain your contribution.
 
     - After you've added your work, proceed to stage, commit, and push your changes as described in the previous steps.
+  
+      
+      **Examples of good commit messages**
+   ```feat: Implemented search functionality for products page
+      fix: Corrected spelling errors in login page
+      bug: Resolved issue with data not being saved to database
+      chore: Update dependencies to latest versions
+      docs: Add documentation for new API endpoint
+      refactor: Simplified logic for order processing
+      test: Add unit tests for user authentication
+
 
 5. **Add Your Information**: In the `participant/` directory, create a file named `YourUsername.md` and include your details like this:
 
