@@ -2,13 +2,6 @@
 
 ![HacktoberFest 2023](logo.png)
 
-## Contributors to Hacktoberfest 2023
-
-<div align="center">
-  <a href="https://github.com/Narennnnn/Hacktoberfest-2023/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Narennnnn/Hacktoberfest-2023" alt="Contributors"/>
-  </a>
-</div>
 
 # The Open Source Adventure Awaits! 🗺️
 
