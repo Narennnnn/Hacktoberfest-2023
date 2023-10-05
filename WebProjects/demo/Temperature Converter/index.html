@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Temperator Convertor</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="index.js"></script>
+</head>
+
+<body>
+    <section class="header">
+        <a href="">
+            <img class="logo" src="src/pic.png" alt="">
+        </a>
+        <h2>Temperature Convertor</h2>
+    </section>
+    <section class="main">
+        <div class="container">
+            <img src="src/img000.jpg" alt="">
+
+            <div class="temp-list">
+                <div class="temp-In">
+                    <h3>Celcius : </h3>
+                    <input id="inputCelcius" type="number" placeholder="Input"
+                        oninput="temperatureConverter(this.value)" onchange="temperatureConverter(this.value)">
+                </div>
+                <div class="temp-Out">
+                    <div class="Fahrenheit">
+                        <h3>Fahrenheit</h3>
+                        <div class="output" id="outputFahrenheit"></div>
+                    </div>
+                    <div class="Kelvin">
+                        <h3>Kelvin</h3>
+                        <div class="output" id="outputKelvin"></div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <footer>
+        <span class="f-text1">
+            Created By <a href="https://github.com/sumedhx" target="_blank">Sumedh</a>
+        </span>
+    </footer>
+</body>
+
+</html>
